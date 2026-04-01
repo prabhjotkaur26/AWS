@@ -1,4 +1,4 @@
-# Amazon DynamoDB – Detailed Explanation
+# Amazon DynamoDB
 
 ## What is Amazon DynamoDB?
 
