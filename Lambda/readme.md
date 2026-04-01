@@ -1,4 +1,4 @@
-# AWS Lambda – Complete Explanation
+# AWS Lambda
 
 ## What is AWS Lambda?
 
