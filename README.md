@@ -37,19 +37,19 @@ Helps developers build apps
 Provides virtual computers and servers
 
 ## Real-Life Uses
-1.Backup your phone data
-2.Online gaming
-3.Video streaming
-4.Online classes
-5.Business apps and websites
+1. Backup your phone data
+2. Online gaming
+3. Video streaming
+4. Online classes
+5. Business apps and websites
 
 ## Advantages
-1.Access from anywhere
-2.No need for big storage on your device
-3.Automatic updates
-4.Easy sharing
+1. Access from anywhere
+2. No need for big storage on your device
+3. Automatic updates
+4. Easy sharing
 
 ## Disadvantages
-1.Needs internet connection
-2.Privacy concerns
-3.Can cost money for extra storage
+1. Needs internet connection
+2. Privacy concerns
+3. Can cost money for extra storage
