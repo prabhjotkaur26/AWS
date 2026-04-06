@@ -1,4 +1,4 @@
-# AWS Step Functions – Complete Guide
+# AWS Step Functions
 
 ## What is AWS Step Functions?
 
@@ -67,7 +67,7 @@ This makes data flow easy to manage.
 
 ---
 
-## 🔄 How It Works
+##  How It Works
 
 1. Define a state machine using JSON (Amazon States Language)
 2. Trigger execution manually or via events
@@ -78,37 +78,37 @@ This makes data flow easy to manage.
 ---
 
 
-## ⚙️ Key Features
+## Key Features
 
-### ✅ Visual Workflow Builder
+### Visual Workflow Builder
 
 * Drag-and-drop UI in AWS Console
 * Easy debugging and monitoring
 
 ---
 
-### 🔁 Error Handling & Retries
+### Error Handling & Retries
 
 * Automatic retry policies
 * Catch failures and define fallback steps
 
 ---
 
-### 🔀 Parallel Execution
+### Parallel Execution
 
 * Run multiple branches simultaneously
 * Improves performance
 
 ---
 
-### ⏱️ Wait & Scheduling
+### Wait & Scheduling
 
 * Delay execution
 * Schedule workflows
 
 ---
 
-### 🔗 AWS Service Integrations
+### AWS Service Integrations
 
 Works seamlessly with:
 
@@ -121,7 +121,7 @@ Works seamlessly with:
 
 ---
 
-## 🚀 Types of Workflows
+## Types of Workflows
 
 ### 1. Standard Workflows
 
@@ -137,7 +137,7 @@ Works seamlessly with:
 
 ---
 
-## 🧪 Use Cases
+## Use Cases
 
 * Microservices orchestration
 * ETL pipelines
@@ -148,7 +148,7 @@ Works seamlessly with:
 
 ---
 
-## 🧩 Advantages
+## Advantages
 
 * No infrastructure management
 * Built-in fault tolerance
@@ -158,7 +158,7 @@ Works seamlessly with:
 
 ---
 
-## ⚠️ Limitations
+## Limitations
 
 * Learning curve for Amazon States Language
 * Costs can increase with high execution volume
@@ -166,7 +166,7 @@ Works seamlessly with:
 
 ---
 
-## 🧭 When to Use Step Functions
+## When to Use Step Functions
 
 Use Step Functions when:
 
@@ -177,15 +177,7 @@ Use Step Functions when:
 
 ---
 
-## 🧠 Summary
 
-AWS Step Functions acts as a **workflow orchestrator** that simplifies complex application logic by:
-
-* Managing execution flow
-* Handling errors automatically
-* Coordinating distributed services
-
-It is a powerful tool for building **scalable, maintainable, and reliable serverless applications**.
 
 ---
 
